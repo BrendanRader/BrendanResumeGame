@@ -9,7 +9,7 @@ public class TRG_StartGame : MonoBehaviour
     {
         if(Input.anyKey)
         {
-            SceneManager.LoadScene("ResumeGame");
+            SceneManager.LoadScene(1);
         }
     }
 }

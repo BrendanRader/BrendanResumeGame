@@ -11,4 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ResumeGame.unity
     guid: fbf1ef60210ad8548bc0b49832fcc0a8
+  - enabled: 1
+    path: Assets/Scenes/Education.unity
+    guid: 06b36404263e19f498f81efa65cb112e
+  - enabled: 1
+    path: Assets/Scenes/Skills.unity
+    guid: 3b6c99134b81431488b500ca0e672093
+  - enabled: 1
+    path: Assets/Scenes/Software.unity
+    guid: 62d841bdefa639d489ae8015cdf88813
+  - enabled: 1
+    path: Assets/Scenes/Hobbies.unity
+    guid: e7c80b0e9c5bcd640ba08a514045f9c9
+  - enabled: 1
+    path: Assets/Scenes/Contact.unity
+    guid: 42f862f900714584db5ba6661f936508
+  - enabled: 1
+    path: Assets/Scenes/Organizations.unity
+    guid: f6c17026b348e684cae6a5a0968c7314
+  - enabled: 1
+    path: Assets/Scenes/Achievements.unity
+    guid: abb027f5ba53bdd4c8005f4f30e68ff7
   m_configObjects: {}
